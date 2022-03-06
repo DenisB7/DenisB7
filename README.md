@@ -1,3 +1,5 @@
+Currently, in development scope i'm working with one project 
+
 ✅Main knowledge: Python, Django, Django REST Framework (DRF), Web Scraping, SQLite, GitHub, HTML5, Bootstrap, CSS3
 
 ✅Some familiarity with: Heroku, PostgreSQL, GNULinux(Ubuntu), Docker, Test-Driven Development (TDD), pytest, JavaScript, JQuery, AJAX, Data Modeling, Nginx
