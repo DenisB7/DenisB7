@@ -1,4 +1,5 @@
 ✅Main knowledge: Python, Django, Django REST Framework (DRF), Web Scraping, SQLite, GitHub, HTML5, Bootstrap, CSS3
+
 ✅Some familiarity with: Heroku, PostgreSQL, GNULinux(Ubuntu), Docker, Test-Driven Development (TDD), pytest, JavaScript, JQuery, AJAX, Data Modeling, Nginx
 
 🚀Have 5 projects: 
