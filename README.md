@@ -1,4 +1,4 @@
-**Currently, in web development scope i'm working with one project**
+**Currently (since august of 2021), in web development scope i'm working with one project**
 
 ✅Main knowledge: Python, Django, Django REST Framework (DRF), Web Scraping, SQLite, GitHub, HTML5, Bootstrap, CSS3
 
