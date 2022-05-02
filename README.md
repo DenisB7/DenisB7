@@ -21,6 +21,7 @@ o Using Databases with Python
 
 🎓Completed specialization:
 - Django for Everybody by University of Michigan in 2021 consists of 4 courses
+
 o Web Application Technologies and Django
 o Building Web Applications in Django
 o Django Features and Libraries
