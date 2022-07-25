@@ -46,5 +46,5 @@ In progress:
 - metallurgical and electrical (sales and marketing, procurements, logistics, market analysis) 100+ employees
 - agricultural (management, administration, sales and marketing, procurements, logistics, economics, finance, market analysis), 5+ employees
 - polymer (management, administration, sales and marketing, procurements, logistics, economics, finance, market analysis), 5+ employees
-- internet and telecommunication (sales), 1000+ employees
+- internet and telecommunication (sales), 2000+ employees
 - culture (teaching, promotion, marketing)
