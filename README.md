@@ -47,4 +47,4 @@ In progress:
 - agricultural (management, administration, sales and marketing, procurements, logistics, economics, finance, market analysis), 5+ employees
 - polymer (management, administration, sales and marketing, procurements, logistics, economics, finance, market analysis), 5+ employees
 - internet and telecommunication (sales), 2000+ employees
-- culture (teaching, promotion, marketing)
+- culture (teaching, promotion, marketing), 100+ employees
