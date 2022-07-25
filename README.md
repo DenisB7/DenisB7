@@ -1,8 +1,19 @@
-**Currently (since August of 2021), in web development scope i'm working with one project and since middle of March of 2022 working with another one**
+**Currently (since August of 2021), in web development (mostly back end) scope i'm working with one project and since middle of March of 2022 working with another one**
 
 ✅Main knowledge: Python, Django, Django REST Framework (DRF), Web Scraping, SQLite, GitHub, HTML5, Bootstrap, CSS3
 
-✅Some familiarity with: Heroku, PostgreSQL, GNULinux(Ubuntu), Docker, Test-Driven Development (TDD), pytest, JavaScript, JQuery, AJAX, Data Modeling, Nginx
+✅Some familiarity with: Heroku, PostgreSQL, GNULinux(Ubuntu), Docker, Test-Driven Development (TDD), pytest, JavaScript, JQuery, AJAX, Data Modeling, Nginx, AWS SQS, AWS S3, Celery, Django-oscar
+
+💼Business size experience with 2000+ employees.
+
+🚀Rating on Upwork https://www.upwork.com/freelancers/~01508077047f73d49b?viewMode=1&s=1110580748673863680 :
+- Job Success Score 100% 
+- Rating 5 stars
+
+🚀3 projects from work:
+1. Web scraping using Selenium and Beautiful Soup 
+2. Vocuni on Upwork (mostly Back End) - created almost from scratch, there were already prepared models, settings and other things related with settings (18 August - 14 March)
+3. Arpeggiato started on Upwork (mostly Back End and Front End), then directly - bugs fixing and creating new features (14 March - still in progress)
 
 🚀Have 5 projects: 
 - Django REST framework (2 projects), 
@@ -31,7 +42,7 @@ In progress:
 
 🎓Graduated from Urals State Technical University - Ural Polytechnical Institute in 2009 (Ural Federal University, nowadays), Metallurgical Faculty, specialty - Master of Commerce (trading business)
 
-💼Have experience in different industries, it isn't relates with developing apps and programming: 
+💼Have experience in different industries, they are not relates with developing apps and programming: 
 - metallurgical and electrical (sales and marketing, procurements, logistics, market analysis) 100+ employees
 - agricultural (management, administration, sales and marketing, procurements, logistics, economics, finance, market analysis), 5+ employees
 - polymer (management, administration, sales and marketing, procurements, logistics, economics, finance, market analysis), 5+ employees
