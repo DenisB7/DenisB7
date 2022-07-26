@@ -42,7 +42,7 @@ In progress:
 
 🎓Graduated from Urals State Technical University - Ural Polytechnical Institute in 2009 (Ural Federal University, nowadays), Metallurgical Faculty, specialty - Master of Commerce (trading business)
 
-💼Have experience in different industries, they are not relates with developing apps and programming:
+💼Have experience in different industries where profession is not relates with programming:
 - internet and telecommunication (sales), 2000+ employees
 - metallurgical and electrical (sales and marketing, procurements, logistics, market analysis) 100+ employees
 - culture (teaching, promotion, marketing), 10+ employees
