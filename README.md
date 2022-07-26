@@ -12,7 +12,7 @@
 
 🚀4 projects from work:
 1. dorkomplect (WordPress) www.dorkomplect.ru - my first experience in developing, was created in 2020 and still maintaining it
-2. Web scraping using Selenium and Beautiful Soup 
+2. Web scraping using Selenium and Beautiful Soup on Upwork
 3. Vocuni on Upwork (mostly Back End) - created almost from scratch, there were already prepared models, settings and other things related with settings (18 August - 14 March)
 4. Arpeggiato started on Upwork (mostly Back End and Front End), then directly - bugs fixing and creating new features (14 March - still in progress)
 
