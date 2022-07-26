@@ -45,6 +45,6 @@ In progress:
 💼Have experience in different industries, they are not relates with developing apps and programming:
 - internet and telecommunication (sales), 2000+ employees
 - metallurgical and electrical (sales and marketing, procurements, logistics, market analysis) 100+ employees
-- culture (teaching, promotion, marketing), 100+ employees
+- culture (teaching, promotion, marketing), 10+ employees
 - agricultural (management, administration, sales and marketing, procurements, logistics, economics, finance, market analysis), 5+ employees
 - polymer (management, administration, sales and marketing, procurements, logistics, economics, finance, market analysis), 5+ employees
