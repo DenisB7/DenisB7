@@ -11,15 +11,15 @@
 - Rating 5 stars
 
 🚀3 projects from work:
-1. Web scraping using Selenium and Beautiful Soup 
-2. Vocuni on Upwork (mostly Back End) - created almost from scratch, there were already prepared models, settings and other things related with settings (18 August - 14 March)
-3. Arpeggiato started on Upwork (mostly Back End and Front End), then directly - bugs fixing and creating new features (14 March - still in progress)
+1. dorkomplect (WordPress) www.dorkomplect.ru - my first experience in developing, was created in 2020 and still maintaining it
+2. Web scraping using Selenium and Beautiful Soup 
+3. Vocuni on Upwork (mostly Back End) - created almost from scratch, there were already prepared models, settings and other things related with settings (18 August - 14 March)
+4. Arpeggiato started on Upwork (mostly Back End and Front End), then directly - bugs fixing and creating new features (14 March - still in progress)
 
-🚀Have 5 projects: 
+🚀Have 4 projects from practice courses: 
 - Django REST framework (2 projects), 
 - Jobji made on Django with serving static files by WhiteNoise and another version by Nginx (Deployed on Heroku), 
-- DTravel made on Django (Deployed on Heroku), 
-- dorkomplect (WordPress) www.dorkomplect.ru - my first experience in developing, was created in 2020 and still maintaining it
+- DTravel made on Django (Deployed on Heroku)
 
 🎓Completed courses:
 - Higher School of Economics National Research University – basics of programming on Python in 2020
