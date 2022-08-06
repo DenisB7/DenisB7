@@ -1,6 +1,6 @@
 **Experience in programming: 2+ years**
 
-**Currently (since August of 2021), in web development (mostly back end) scope i'm working with one project and since middle of March of 2022 working with another one**
+**Experience in web development (mostly Back End): 1+ year**
 
 ✅Main knowledge: Python, Django, Django REST Framework (DRF), Web Scraping, SQLite, GitHub, HTML5, Bootstrap, CSS3
 
