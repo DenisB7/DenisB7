@@ -4,7 +4,7 @@
 
 ✅Main knowledge: Python, Django, Django REST Framework (DRF), Web Scraping, SQLite, GitHub, HTML5, Bootstrap, CSS3
 
-✅Some familiarity with: Heroku, PostgreSQL, GNULinux(Ubuntu), Docker, Test-Driven Development (TDD), pytest, JavaScript, JQuery, AJAX, Data Modeling, Nginx, AWS SQS, AWS S3, Celery, Django-oscar
+✅Some familiarity with: JavaScript, jQuery, AJAX, Heroku, PostgreSQL, Linux(Ubuntu), Docker, Test-Driven Development (TDD), pytest, Nginx, AWS SQS, AWS S3, Celery, Django-oscar
 
 💼Business size experience with 2000+ employees.
 
