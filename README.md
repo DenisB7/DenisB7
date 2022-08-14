@@ -16,7 +16,7 @@
 1. dorkomplect (WordPress) www.dorkomplect.ru - my first experience in developing, was created in 2020 and still maintaining it
 2. on Upwork before sending my CV/Resume to prospective employers for Web scraping using Selenium and/or Beautiful Soup job i was solving some of their tasks listed in their jobs desription, because tasks were curious to me, finally, i got one as consultation.
 3. Vocuni on Upwork (mostly Back End) - created almost from scratch, there were already prepared models, settings and other things related with settings (18 August - 14 March)
-4. Arpeggiato started on Upwork (mostly Back End and Front End), then directly - bugs fixing and creating new features (14 March - still in progress)
+4. Arpeggiato started on Upwork (mostly Back End and Front End), then directly - bugs fixing, extending current features and creating new features (14 March - still in progress)
 
 🚀Have 4 projects from practice courses, DTravel and Jobji projects fixed and refactored, especially Jobji many times: 
 - Django REST framework (2 projects), 
