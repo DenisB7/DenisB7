@@ -6,7 +6,7 @@
 
 ✅Some familiarity with: JavaScript, jQuery, AJAX, Heroku, PostgreSQL, Linux(Ubuntu), Docker, Test-Driven Development (TDD), pytest, Nginx, AWS SQS, AWS S3, Celery, Django-oscar
 
-💼Business size experience with 2000+ employees.
+💼Business size experience with 1800 employees.
 
 🚀Rating on Upwork https://www.upwork.com/freelancers/~01508077047f73d49b?viewMode=1&s=1110580748673863680 :
 - Job Success Score 100% 
@@ -45,8 +45,8 @@ In progress:
 🎓Graduated from Urals State Technical University - Ural Polytechnical Institute in 2009 (Ural Federal University, nowadays), Metallurgical Faculty, specialty - Master of Commerce (trading business)
 
 💼Have experience in different industries where profession is not relates with programming:
-- internet and telecommunication (sales), 2000+ employees
-- metallurgical and electrical (sales and marketing, procurements, logistics, market analysis) 100+ employees
+- internet and telecommunication (sales), 1800 employees
+- metallurgical and electrical (sales and marketing, procurements, logistics, market analysis) 100-500+ employees
 - culture (teaching, promotion, marketing), 10+ employees
 - agricultural (management, administration, sales and marketing, procurements, logistics, economics, finance, market analysis), 5+ employees
 - polymer (management, administration, sales and marketing, procurements, logistics, economics, finance, market analysis), 5+ employees
