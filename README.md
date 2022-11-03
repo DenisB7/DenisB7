@@ -1,6 +1,6 @@
 **Experience in programming: 2+ years**
 
-**Experience in web development (mostly Back End): 1+ year**
+**Experience in mobile and web development (mostly Back End): 1+ year**
 
 ✅Main knowledge: Python, Django, Django REST Framework (DRF), Web Scraping, SQLite, GitHub, HTML5, Bootstrap, CSS3
 
