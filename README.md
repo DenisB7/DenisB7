@@ -44,7 +44,7 @@
 In progress:
 - Test-Driven Development with Django, Django REST Framework, and Docker (53% finished) 2021
 
-🎓Graduated from Urals State Technical University - Ural Polytechnical Institute in 2009 (Ural Federal University, nowadays), Metallurgical Faculty, specialty - Master of Commerce (sales, commerce)
+🎓Graduated from Urals State Technical University - Ural Polytechnical Institute in 2009 (Ural Federal University, nowadays), Metallurgical Faculty, Master's Degree (sales, commerce)
 
 💼Experience where profession is not relates with programming:
 - internet and telecommunication (sales), 1800 employees
