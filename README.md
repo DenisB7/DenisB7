@@ -1,5 +1,5 @@
 **Experience 2+ years include:**
--	Learning of programming and development - 1 year 4 months (2020 April-2021 August), continue to learn and improve
+-	Learning of programming and development - 1 year 4 months (2020 April-2021 August), continuing to learn and improve
 -	Working as mobile and web developer (mostly Back End) – 1+ year (since 2021 August)
 
 
@@ -16,7 +16,7 @@
 
 🚀4 projects from work:
 1. dorkomplect (WordPress) www.dorkomplect.ru - my first experience in developing, was created in 2020 and still maintaining it
-2. on Upwork before sending my CV/Resume to prospective employers for Web scraping using Selenium and/or Beautiful Soup job i was solving some of their tasks listed in their jobs desription, because tasks were curious to me, finally, i got one as consultation.
+2. on Upwork Web scraping using Selenium and/or Beautiful Soup i was solving some of employers tasks listed in their jobs description, i got one job as consultation
 3. Vocuni on Upwork (mostly Back End) - created almost from scratch, there were already prepared models, settings and other things related with settings (18 August - 14 March)
 4. Arpeggiato started on Upwork (mostly Back End and Front End), then directly - bugs fixing, extending current features and creating new features (14 March - still in progress)
 
@@ -27,7 +27,7 @@
 
 🎓Completed courses:
 - Higher School of Economics National Research University – basics of programming on Python in 2020
-- University of Michigan in 2020 consists of 2 courses
+- University of Michigan in 2020 (2 courses)
   - Using Python to Access Web Data
   - Using Databases with Python
 - Stepik Academy – Django from Scratch on practice in 2020
@@ -35,7 +35,7 @@
 - Coursera Guided Project Build CRUD REST API in Django in 2021
 
 🎓Completed specialization:
-- Django for Everybody by University of Michigan in 2021 consists of 4 courses
+- Django for Everybody by University of Michigan in 2021 (4 courses)
   - Web Application Technologies and Django
   - Building Web Applications in Django
   - Django Features and Libraries
@@ -46,7 +46,7 @@ In progress:
 
 🎓Graduated from Urals State Technical University - Ural Polytechnical Institute in 2009 (Ural Federal University, nowadays), Metallurgical Faculty, specialty - Master of Commerce (sales, commerce)
 
-💼Have experience in different industries where profession is not relates with programming:
+💼Experience where profession is not relates with programming:
 - internet and telecommunication (sales), 1800 employees
 - metallurgical and electrical (sales and marketing, procurements, logistics, market analysis) 100-500+ employees
 - culture (teaching, promotion, marketing), 10+ employees
