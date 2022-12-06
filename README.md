@@ -1,6 +1,7 @@
-**Experience in programming: 2+ years**
+**Experience 2+ years include:**
+-	Learning of programming and development - 1 year 4 months (2020 April-2021 August), continue to learn and improve
+-	Working as mobile and web developer (mostly Back End) – 1+ year (since 2021 August)
 
-**Experience in mobile and web development (mostly Back End): 1+ year**
 
 ✅Main knowledge: Python, Django, Django REST Framework (DRF), Web Scraping, SQLite, GitHub, HTML5, Bootstrap, CSS3
 
