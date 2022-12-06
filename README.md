@@ -52,3 +52,5 @@ In progress:
 - culture (teaching, promotion, marketing), 10+ employees
 - agricultural (management, administration, sales and marketing, procurements, logistics, economics, finance, market analysis), 5+ employees
 - polymer (management, administration, sales and marketing, procurements, logistics, economics, finance, market analysis), 5+ employees
+
+I’m not great candidate, but always trying to be better!
