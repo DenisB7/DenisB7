@@ -53,4 +53,4 @@ In progress:
 - agricultural (management, administration, sales and marketing, procurements, logistics, economics, finance, market analysis), 5+ employees
 - polymer (management, administration, sales and marketing, procurements, logistics, economics, finance, market analysis), 5+ employees
 
-I’m not great candidate, but always trying to be better!
+Maybe i’m not great candidate, but always trying to be better!
