@@ -1,6 +1,6 @@
 **Experience 2+ years include:**
 -	Learning of programming and development - 1 year 4 months (2020 April-2021 August), continuing to learn and improve
--	Working as mobile and web developer (mostly Back End) – 1+ year (since 2021 August)
+-	Working as mobile and web developer (mostly Back End and Front End) – 1+ year (since 2021 August)
 
 
 ✅Main knowledge: Python, Django, Django REST Framework (DRF), JSON, Web Scraping, SQLite, GitHub, HTML5, Bootstrap, CSS3
@@ -17,7 +17,7 @@
 🚀4 projects from work:
 1. dorkomplect (WordPress) www.dorkomplect.ru - my first experience in developing, was created in 2020 and still maintaining it
 2. on Upwork Web scraping using Selenium and/or Beautiful Soup i was solving some of employers tasks listed in their jobs description, i got one job as consultation
-3. Vocuni on Upwork (mostly Back End) - created almost from scratch, there were already prepared models, settings and other things related with settings (18 August - 14 March)
+3. Vocuni on Upwork (mostly Back End and Front End) - created almost from scratch, there were already prepared models, settings and other things related with settings (18 August - 14 March)
 4. Arpeggiato started on Upwork (mostly Back End and Front End), then directly - bugs fixing, extending current features and creating new features (14 March - still in progress)
 
 🚀Have 4 projects from practice courses, DTravel and Jobji projects fixed and refactored, especially Jobji many times: 
