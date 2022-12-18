@@ -3,7 +3,9 @@
 -	Working as mobile and web developer (mostly Back End and Front End) – 1+ year (since 2021 August)
 
 ✅Main knowledge: Python, Django, Django REST Framework (DRF), JSON, Web Scraping, SQLite, GitHub, HTML5, Bootstrap, CSS3
+
 ✅Middle knowledge: JavaScript, jQuery, AJAX, Heroku, PostgreSQL
+
 ✅Familiarity with: Linux(Ubuntu), Docker, Test-Driven Development (TDD), pytest, Nginx, AWS S3, Celery
 
 💼Business size experience with 1800 employees.
