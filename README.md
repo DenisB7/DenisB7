@@ -11,7 +11,7 @@
 💼Business size experience with 1800 employees.
 
 🚀Rating on Upwork https://www.upwork.com/freelancers/~01508077047f73d49b?viewMode=1&s=1110580748673863680 :
-- Top Rated (since May 2022 Upwork went out from Russia, after my relocating and recovering my account currently unfortunately it is lost)
+- Top Rated
 - Job Success Score 100% 
 - Rating 5 stars
 
