@@ -18,8 +18,8 @@
 🚀4 projects from work:
 1. dorkomplect (WordPress) www.dorkomplect.ru - my first experience in developing, was created in 2020 and still maintaining it
 2. on Upwork Web scraping using Selenium and/or Beautiful Soup i was solving some of employers tasks listed in their jobs description, i got one job as consultation
-3. Vocuni on Upwork (mostly Back End and Front End) for client from USA, Boston - **Entry Level/Intermediate Level of project** - created almost from scratch, there were already prepared models, settings and other things related with settings (18 August - 14 March)
-4. Arpeggiato (Ecommerce), for client from USA, Chicago, started on Upwork (mostly Back End and Front End), then directly - **Intermediate Level of project** - bugs fixing, extending current features and creating new features (14 March - still in progress)
+3. Vocuni on Upwork (mostly Back End and Front End) for **client from USA, Boston - Entry Level/Intermediate Level of project** - created almost from scratch, there were already prepared models, settings and other things related with settings (18 August - 14 March)
+4. Arpeggiato (Ecommerce), for **client from USA, Chicago**, started on Upwork (mostly Back End and Front End), then directly - **Intermediate Level of project** - bugs fixing, extending current features and creating new features (14 March - still in progress)
 
 🚀Have 4 projects from practice courses, DTravel and Jobji projects fixed and refactored, especially Jobji many times: 
 - Django REST framework (2 projects), 
