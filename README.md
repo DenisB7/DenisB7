@@ -1,5 +1,5 @@
-**Experience 2+ years include:**
--	Learning of programming and development - 1 year 4 months (2020 April-2021 August), continuing to learn and improve
+**Experience 2.5+ years include:**
+-	Learning of programming and development - 2.5+ years (since 2020 April)
 -	Working as mobile and web developer (mostly Back End and Front End) – 1+ year (since 2021 August)
 
 ✅Main knowledge: Python, Django, Django REST Framework (DRF), JSON, Web Scraping, SQLite, GitHub, HTML5, Bootstrap, CSS3
