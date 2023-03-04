@@ -2,11 +2,11 @@
 -	Learning of programming and development - 2.5+ years (since 2020 April)
 -	Working as mobile and web developer (mostly Back End and Front End) – 1.5+ year (since 2021 August)
 
-✅Main knowledge: Python, Django, Django REST Framework (DRF), JSON, Web Scraping, SQLite, GitHub, HTML5, Bootstrap, CSS3
+✅Main proficiency: Python, Django, Automation, Django REST Framework (DRF), JSON, Web Scraping, SQLite, GitHub, HTML5, Bootstrap, CSS3, manual testing
 
-✅Middle knowledge: JavaScript, jQuery, AJAX, Heroku, PostgreSQL
+✅Secondary proficiency: JavaScript, jQuery, AJAX, Heroku, PostgreSQL
 
-✅Familiarity with: Linux(Ubuntu), Docker, Test-Driven Development (TDD), pytest, Nginx, AWS S3, Celery
+✅Familiarity: React, Linux(Ubuntu), Docker, Test-Driven Development (TDD), pytest, Nginx, AWS S3, Celery, CloudMailin, Stripe, PayPal
 
 💼Business size experience with 1800 employees.
 
