@@ -1,8 +1,8 @@
 In 2018 i started to explore world of programming and development and which path to choose, in January 2020 i built my first website (and maintained till September 2022) on WordPress, but also since 2020…
 
-**Experience 2.5+ years include:**
--	Learning of programming and development - 2.5+ years (since 2020 April)
--	Working as mobile and web developer (mostly Back End and Front End) – 1.5+ year (since 2021 August)
+**Experience 3+ years include:**
+-	Learning of programming and development - 3+ years (since 2020 April)
+-	Working as a Full Stack Developer (mostly Back End and Front End) – 1.5+ year (since 2021 August)
 
 ✅Main proficiency: Python, Django, Automation, Django REST Framework (DRF), JSON, Web Scraping, SQLite, GitHub, HTML5, Bootstrap, CSS3, manual testing
 
@@ -16,16 +16,16 @@ In 2018 i started to explore world of programming and development and which path
 - Job Success Score 100% 
 - Rating 5 stars
 
-🚀4 projects from work:
+🚀5 projects from work, 4 of them:
 1. dorkomplect (WordPress) www.dorkomplect.ru - my first experience in developing, was created in 2020 and still maintaining it
 2. on Upwork Web scraping using Selenium and/or Beautiful Soup i was solving some of employers tasks listed in their jobs description, i got one job as consultation
-3. Vocuni on Upwork (mostly Back End and Front End) for **client from USA, Boston - Entry Level/Intermediate Level of project** - created almost from scratch, there were already prepared models, settings and other things related with settings (18 August - 14 March)
-4. Arpeggiato (Ecommerce), for **client from USA, Chicago**, started on Upwork (mostly Back End and Front End), then directly - **Intermediate Level of project** - bugs fixing, extending current features and creating new features (14 March - still in progress)
+3. Vocuni (Education) on Upwork, Full Stack Development (mostly Back End and Front End) for **client from USA, Boston - Entry Level/Intermediate Level of project** - created almost from scratch, there were already prepared models, settings and other things related with settings (18 August 2021 - 14 March 2022)
+4. Arpeggiato (Ecommerce), Full Stack Development (mostly Back End and Front End), started on Upwork, then directly for **client from USA, Chicago - Intermediate Level of project** - bugs fixing, extending current features and creating new features (14 March 2021 - still in progress)
 
 🚀Have 4 projects from practice courses, DTravel and Jobji projects fixed and refactored, especially Jobji many times: 
-- Django REST framework (2 projects), 
-- Jobji made on Django with serving static files by WhiteNoise and another version by Nginx (Deployed on Heroku), 
-- DTravel made on Django (Deployed on Heroku)
+- Django REST framework (2 projects)
+- Jobji with serving static files by WhiteNoise and another version by Nginx (Deployed on Heroku)
+- DTravel (Deployed on Heroku)
 
 🎓Completed courses:
 - Higher School of Economics National Research University – basics of programming on Python in 2020
