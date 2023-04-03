@@ -19,8 +19,8 @@ In 2018 i started to explore world of programming and development and which path
 🚀5 projects from work, 4 of them:
 1. dorkomplect (WordPress) www.dorkomplect.ru - my first experience in developing, was created in 2020 and still maintaining it
 2. on Upwork Web scraping using Selenium and/or Beautiful Soup i was solving some of employers tasks listed in their jobs description, i got one job as consultation
-3. Vocuni (Education) on Upwork, Full Stack Development (mostly Back End and Front End) for **client from USA, Boston - Entry Level/Intermediate Level of project** - created almost from scratch, there were already prepared models, settings and other things related with settings (18 August 2021 - 14 March 2022)
-4. Arpeggiato (Ecommerce), Full Stack Development (mostly Back End and Front End), started on Upwork, then directly for **client from USA, Chicago - Intermediate Level of project** - bugs fixing, extending current features and creating new features (14 March 2021 - still in progress)
+3. Vocuni (Education platform) on Upwork, Full Stack Development (mostly Back End and Front End) for **client from USA, Boston - Entry Level/Intermediate Level of project** - created almost from scratch, there were already prepared models, settings and other things related with settings (18 August 2021 - 14 March 2022)
+4. Arpeggiato (Education and Ecommerce platform), Full Stack Development (mostly Back End and Front End), started on Upwork, then directly for **client from USA, Chicago - Intermediate Level of project** - bugs fixing, extending current features and creating new features (14 March 2021 - still in progress)
 
 🚀Have 4 projects from practice courses, DTravel and Jobji projects fixed and refactored, especially Jobji many times: 
 - Django REST framework (2 projects)
