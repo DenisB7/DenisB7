@@ -15,6 +15,7 @@ In 2018 i started to explore world of programming and development and which path
 🚀Rating on Upwork https://www.upwork.com/freelancers/~01508077047f73d49b?viewMode=1&s=1110580748673863680 :
 - Job Success Score 100% 
 - Rating 5 stars
+- Top Rated
 
 🚀6 projects from work, 5 of them:
 1. dorkomplect (WordPress) www.dorkomplect.ru - my first experience in developing, was created in 2020 and still maintaining it
