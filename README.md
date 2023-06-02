@@ -8,7 +8,7 @@ In 2018 i started to explore world of programming and development and which path
 
 ✅Secondary proficiency: JavaScript, jQuery, AJAX, Heroku, PostgreSQL
 
-✅Familiarity: React, Linux(Ubuntu), Docker, Test-Driven Development (TDD), pytest, Nginx, AWS S3, Celery, CloudMailin, Stripe, PayPal, Oauth, SEO
+✅Familiarity: Chartjs, TypeScript, React, Linux(Ubuntu), Docker, Test-Driven Development (TDD), pytest, Nginx, AWS S3, Celery, CloudMailin, Stripe, PayPal, Oauth, SEO
 
 💼Business size experience with 1800 employees.
 
