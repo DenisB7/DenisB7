@@ -18,7 +18,7 @@ In 2018 i started to explore world of programming and development and which path
 - Top Rated
 
 🚀6 projects from work, 5 of them:
-1. dorkomplect (WordPress) www.dorkomplect.ru - my first experience in developing, was created in 2020 and still maintaining it
+1. dorkomplect (WordPress) www.dorkomplect.ru - my first experience in developing (January 2020 – September 2022) – the most crucial achievement is SEO optimization which increased amount of visitors in 3-5 times
 2. on Upwork Web scraping using Selenium and/or Beautiful Soup i was solving some of employers tasks listed in their jobs description, i got one job as consultation
 3. Vocuni (Education platform) on Upwork, Full Stack Development (mostly Back End and Front End) **for client from USA, Boston - Entry Level/Intermediate Level of project with many data manipulations, in production** - created almost from scratch, there were already prepared models, settings and other things related with settings (18 August 2021 - 14 March 2022)
 4. Arpeggiato (Education and Ecommerce platform), Full Stack Development (mostly Back End and Front End) **for client from USA, Chicago - Intermediate Level of project in production** - bugs fixing, extending current features and creating new features, manual testing, automation (14 March 2022 - still in progress)
