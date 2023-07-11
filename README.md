@@ -31,6 +31,7 @@ In 2018 i started to explore world of programming and development and which path
 - Internet of Things Academy - Linux Mastery Master the Linux Command Line in 11.5 Hours in 2021
 - Coursera Guided Project Build CRUD REST API in Django in 2021
 - Test-Driven Development with Django, Django REST Framework, and Docker (53% finished) 2021
+
 🎓Completed specialization:
 - Django for Everybody by University of Michigan in 2021 (4 courses)
 
