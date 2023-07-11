@@ -5,9 +5,7 @@ In 2018 i started to explore world of programming and development and which path
 -	Working as a Full Stack Developer (mostly Back End and Front End) – 1.5+ year (since 2021 August)
 
 ✅Main proficiency: Python, Django, Automation, Django REST Framework (DRF), JSON, Web Scraping, SQLite, GitHub, HTML5, Bootstrap, CSS3, manual testing
-
 ✅Secondary proficiency: JavaScript, jQuery, AJAX, Heroku, PostgreSQL
-
 ✅Familiarity: Chartjs, TypeScript, React, Linux(Ubuntu), Docker, Test-Driven Development (TDD), pytest, Nginx, AWS S3, Celery, CloudMailin, Stripe, PayPal, Oauth, SEO, Google reCAPTCHA, Wagtail CMS, APScheduler, WebSockets
 
 💼Business size experience with 1800 employees.
@@ -17,36 +15,22 @@ In 2018 i started to explore world of programming and development and which path
 - Rating 5 stars
 - Top Rated
 
-🚀6 projects from work, 5 of them:
+🚀10 projects, 5 of them (creating from scratch, bugs fixing, extending current features and creating new features, manual testing, automation, responsive design, refactoring, etc.):
 1. dorkomplect (WordPress) www.dorkomplect.ru - my first experience in developing (January 2020 – September 2022) – the most crucial achievement is SEO optimization which increased amount of visitors in 3-5 times
 2. on Upwork Web scraping using Selenium and/or Beautiful Soup i was solving some of employers tasks listed in their jobs description, i got one job as consultation
 3. Vocuni (Education platform) on Upwork, Full Stack Development (mostly Back End and Front End) **for client from USA, Boston - Entry Level/Intermediate Level of project with many data manipulations, in production - created almost from scratch**, there were already prepared models, settings and other things related with settings (18 August 2021 - 14 March 2022)
-4. Arpeggiato (Education and Ecommerce platform), Full Stack Development (mostly Back End and Front End) **for client from USA, Chicago - Intermediate Level of project in production, it has a bunch of code and many features** - bugs fixing, extending current features and creating new features, manual testing, automation, refactoring, responsive design (14 March 2022 - still in progress)
-5. rnkd.gg (gaming stats platform), Full Stack Development (mostly Back End and Front End), on Upwork, for **client from Belgium - Intermediate Level of project in production** - bugs fixing, extending current features and creating new features, manual testing, automation, refactoring, responsive design (March 2023 - in progress)
-
-🚀Have 4 projects from practice courses, DTravel and Jobji projects fixed and refactored, especially Jobji many times: 
-- Django REST framework (2 projects)
-- Jobji with serving static files by WhiteNoise and another version by Nginx (Deployed on Heroku)
-- DTravel (Deployed on Heroku)
+4. Arpeggiato (Education and Ecommerce platform), Full Stack Development (mostly Back End and Front End) **for client from USA, Chicago - Intermediate Level of project in production, it has a bunch of code and many features** (14 March 2022 - still in progress)
+5. rnkd.gg (gaming stats platform), Full Stack Development (mostly Back End and Front End), on Upwork, for **client from Belgium - Intermediate Level of project in production** (March 2023 - in progress)
 
 🎓Completed courses:
 - Higher School of Economics National Research University – basics of programming on Python in 2020
-- University of Michigan in 2020 (2 courses)
-  - Using Python to Access Web Data
-  - Using Databases with Python
+- University of Michigan in 2020 (2 courses) - Python
 - Stepik Academy – Django from Scratch on practice in 2020
 - Internet of Things Academy - Linux Mastery Master the Linux Command Line in 11.5 Hours in 2021
 - Coursera Guided Project Build CRUD REST API in Django in 2021
-
+- Test-Driven Development with Django, Django REST Framework, and Docker (53% finished) 2021
 🎓Completed specialization:
 - Django for Everybody by University of Michigan in 2021 (4 courses)
-  - Web Application Technologies and Django
-  - Building Web Applications in Django
-  - Django Features and Libraries
-  - Using JavaScript, JQuery, and JSON in Django
-
-In progress:
-- Test-Driven Development with Django, Django REST Framework, and Docker (53% finished) 2021
 
 🎓Graduated from Urals State Technical University - Ural Polytechnical Institute in 2009 (Ural Federal University, nowadays), Metallurgical Faculty, Master's Degree (sales, commerce)
 
