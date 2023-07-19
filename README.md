@@ -2,9 +2,9 @@
 
 In 2018 i started to explore world of programming and development and which path to choose, in January 2020 on WordPress i built my first website (and maintained till September 2022), but also since 2020…
 
-**Experience 3+ years include:**
+**Experience 3.5+ years include:**
 -	Learning of programming and development - 3+ years (since 2020 April)
--	Working as a Full Stack Developer (mostly Back End and Front End) – 1.5+ year (since 2021 August)
+-	Working as a Full Stack Developer (mostly Back End and Front End) – 2+ years (since 2021 July)
 
 ✅Main proficiency: Python, Django, Automation, Django REST Framework (DRF), JSON, Web Scraping, SQLite, GitHub, HTML5, Bootstrap, CSS3, manual testing
 
