@@ -17,7 +17,7 @@ In 2018 i started to explore world of programming and development and which path
 🚀Rating on Upwork https://www.upwork.com/freelancers/~01508077047f73d49b?viewMode=1&s=1110580748673863680 :
 - Job Success Score 100% 
 - Rating 5 stars
-- Top Rated
+- Top Rated (TOP 10% on Upwork)
 
 🚀10 projects, 5 of them (creating from scratch, bugs fixing, extending current features and creating new features, manual testing, automation, responsive design, refactoring, etc.):
 1. dorkomplect (WordPress) www.dorkomplect.ru - my first experience in developing (January 2020 – September 2022) – The most crucial achievement is SEO in conjunction with tweaked advertising, which increased amount of visitors in 3-5 times
