@@ -19,7 +19,7 @@ In 2018 i started to explore world of programming and development and which path
 - Rating 5 stars
 - Top Rated (TOP 10% on Upwork)
 
-🚀11 projects, 5 of them (creating from scratch, bugs fixing, extending current features and creating new features, manual testing, automation, responsive design, refactoring, etc.):
+🚀11 projects, 6 of them (creating from scratch, bugs fixing, extending current features and creating new features, manual testing, automation, responsive design, refactoring, etc.):
 1. dorkomplect (WordPress) www.dorkomplect.ru - my first experience in developing (January 2020 – September 2022) – The most crucial achievement is SEO in conjunction with tweaked advertising, which increased amount of visitors in 3-5 times
 2. on Upwork Web scraping using Selenium and/or Beautiful Soup i was solving some of employers tasks listed in their jobs description, i got one job as consultation
 3. Vocuni (Education platform) on Upwork, Full Stack Development (mostly Back End and Front End) **for client from USA, Boston - project with many data manipulations, in production - created almost from scratch**, there were already prepared models, settings and other things related with settings (18 August 2021 - 14 March 2022)
