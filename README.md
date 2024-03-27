@@ -21,7 +21,7 @@ In 2018 i started to explore world of programming and development and which path
 1. dorkomplect (WordPress) www.dorkomplect.ru - my first experience in developing (January 2020 – September 2022) – The most crucial achievement is SEO in conjunction with tweaked advertising, which increased amount of visitors in 3-5 times
 2. on Upwork Web scraping using Selenium and/or Beautiful Soup i was solving some of employers tasks listed in their jobs description, i got one job as consultation
 3. Vocuni (Education platform) on Upwork, Full Stack Development (mostly Back End and Front End) **for client from USA, Boston - project with many data manipulations, in production - created almost from scratch**, there were already prepared models, settings and other things related with settings (18 August 2021 - 14 March 2022)
-4. Arpeggiato (Education and Ecommerce platform), Full Stack Development (mostly Back End and Front End) **for client from USA, Chicago - in production, it has a bunch of code and many features** (14 March 2022 - still in progress)
+4. Arpeggiato (Education and Ecommerce platform), Full Stack Development (mostly Back End and Front End) **for client from USA, Chicago - in production, it has a bunch of code and many features** (14 March 2022 - 8 January 2024)
 5. rnkd.gg (gaming stats platform), Full Stack Development (mostly Back End and Front End), on Upwork, **for client from Belgium - in production, we are collecting data and visualizing them** (March 2023 - in progress)
 6. Athena (security platform), Full Stack Development (mostly Back End and Front End), **for client from USA, Austin, TX – it has a bunch of code and many features, in production** (November 2023 – in progress)
 
