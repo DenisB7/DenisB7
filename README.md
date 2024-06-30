@@ -6,7 +6,7 @@ In 2018 i started to explore world of programming and development and which path
 
 ✅**Main proficiency:** Python, Django, Automation, Django REST Framework (DRF), JSON, Web Scraping, SQLite, GitHub, HTML5, Bootstrap, CSS3, manual testing
 
-✅**Secondary proficiency:** JavaScript, jQuery, AJAX, Heroku, PostgreSQL, Vue
+✅**Secondary proficiency:** JavaScript, jQuery, AJAX, Heroku, PostgreSQL, Vue, Swagger
 
 ✅**Familiarity:** Nuxt, React, TypeScript, HashiCorp(Vault), Dash(Bokeh), Chartjs, Linux(Ubuntu), Docker, Test-Driven Development (TDD), pytest, Nginx, AWS S3, Celery, CloudMailin, Stripe, PayPal, Oauth, SEO, Google reCAPTCHA, Wagtail CMS, APScheduler, WebSockets, tinyMCE
 
