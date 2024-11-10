@@ -2,13 +2,13 @@
 
 In 2018 i started to explore world of programming and development and which path to choose, in January 2020 on WordPress i built my first website (and maintained till September 2022), but also since 2020…
 
-**Experience 4+ years**: in programming since 2020 April, in Full Stack Development (mostly Back End and Front End) since 2020 November
+**Experience 4.5+ years**: in programming since 2020 April, in Full Stack Development (mostly Back End and Front End) since 2020 November
 
 ✅**Main proficiency:** Python, Django, Automation, Django REST Framework (DRF), JSON, Web Scraping, SQLite, GitHub, HTML5, Bootstrap, CSS3, manual testing
 
 ✅**Secondary proficiency:** JavaScript, jQuery, AJAX, Heroku, PostgreSQL, Vue, Swagger
 
-✅**Familiarity:** Nuxt, React, TypeScript, HashiCorp(Vault), Dash(Bokeh), Chartjs, Linux(Ubuntu), Docker, Test-Driven Development (TDD), pytest, Nginx, AWS S3, Celery, CloudMailin, Stripe, PayPal, Oauth, SEO, Google reCAPTCHA, Wagtail CMS, APScheduler, WebSockets, tinyMCE
+✅**Familiarity:** Nuxt, React, TypeScript, HashiCorp(Vault), Clamav, Centrifugo, Message Pack, Chartjs, Dash, Linux(Ubuntu), Docker, Test-Driven Development (TDD), pytest, Nginx, AWS S3, Celery, CloudMailin, Stripe, PayPal, Oauth, SEO, Google reCAPTCHA, Wagtail CMS, APScheduler, WebSockets, tinyMCE, DataTables
 
 💼Business size experience with 1800 employees.
 
