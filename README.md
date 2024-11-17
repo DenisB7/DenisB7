@@ -4,11 +4,11 @@ In 2018 i started to explore world of programming and development and which path
 
 **Experience 4.5+ years**: in programming since 2020 April, in Full Stack Development (mostly Back End and Front End) since 2020 November
 
-✅**Main proficiency:** Python, Django, Automation, Django REST Framework (DRF), JSON, Web Scraping, SQLite, GitHub, HTML5, Bootstrap, CSS3, manual testing
+✅**Main proficiency:** Python, Django, Automation, Django REST Framework (DRF), JSON/Message Pack, Web Scraping, SQLite, GitHub, HTML5, Bootstrap, CSS3, manual testing
 
 ✅**Secondary proficiency:** JavaScript, jQuery, AJAX, Heroku, PostgreSQL, Vue, Swagger
 
-✅**Familiarity:** Nuxt, React, TypeScript, HashiCorp(Vault), Clamav, Centrifugo, Message Pack, Chartjs, Dash, Linux(Ubuntu), Docker, Test-Driven Development (TDD), pytest, Nginx, AWS S3, Celery, CloudMailin, Stripe, PayPal, Oauth, SEO, Google reCAPTCHA, Wagtail CMS, APScheduler, WebSockets, tinyMCE, DataTables
+✅**Familiarity:** Nuxt, React, TypeScript, HashiCorp(Vault), Clamav, Centrifugo, Chartjs, Dash, Linux(Ubuntu), Docker, Test-Driven Development (TDD), pytest, Nginx, AWS S3, Celery, CloudMailin, Stripe, PayPal, Oauth, SEO, Google reCAPTCHA, Wagtail CMS, APScheduler, WebSockets, tinyMCE, DataTables
 
 💼Business size experience with 1800 employees.
 
