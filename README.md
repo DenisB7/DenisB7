@@ -36,6 +36,7 @@ Small projects:
 5.	Pincolor – React app – pin code by colors, hexadecimal code as a pin
 
 🎓Completed courses: Higher School of Economics National Research University – basics of programming on Python, University of Michigan (2 courses) – Python, Stepik Academy – Django from scratch on practice, Internet of Things Academy - Linux Mastery Master the Linux Command Line in 11.5 Hours, Coursera Guided Project Build CRUD REST API in Django, Test-Driven Development with Django, Django REST Framework, and Docker
+
 🎓Completed specialization: Django for Everybody by University of Michigan (4 courses)
 
 🎓Graduated from Urals State Technical University - Ural Polytechnical Institute in 2009 (Ural Federal University, nowadays), Metallurgical Faculty, Master's Degree (sales, commerce)
