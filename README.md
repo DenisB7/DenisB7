@@ -4,9 +4,9 @@ In 2018 i started to explore world of programming and development and which path
 
 **Experience 4.5+ years**: in programming since 2020 April, in Full Stack Development (mostly Back End and Front End) since 2020 November
 
-✅**Main proficiency:** Python, Django, API, Automation, Django REST Framework (DRF), JSON/Message Pack, Web Scraping, SQLite, GitHub, HTML5, Bootstrap, CSS3, manual testing
+✅**Main proficiency:** Python, Django, API, Automation, Django REST Framework (DRF), JSON/Message Pack, SQLite, GitHub, HTML5, Bootstrap, CSS3, manual testing
 
-✅**Secondary proficiency:** JavaScript, jQuery, AJAX, Heroku, PostgreSQL, Vue, Swagger, WebSockets(Django Channels, Centrifugo), Google reCAPTCHA
+✅**Secondary proficiency:** Web Scraping, JavaScript, jQuery, AJAX, Heroku, PostgreSQL, Vue, Swagger, WebSockets(Django Channels, Centrifugo), Google reCAPTCHA
 
 ✅**Familiarity:** Nuxt, React, TypeScript, HashiCorp(Vault), Clamav, Chartjs, Dash, Linux(Ubuntu), Docker, Test-Driven Development (TDD), pytest, Nginx, AWS S3, Celery, CloudMailin, Stripe, PayPal, Oauth, SEO, Wagtail CMS, APScheduler, tinyMCE, DataTables
 
@@ -31,8 +31,8 @@ Full Stack Development (mostly Back End and Front End), project with many data m
 Small projects:
 1.	on Upwork Web scraping using Selenium and/or Beautiful Soup
 2.	Django chat app with simple Frontend using websockets
-3.	on Upwork Django app of survey with Frontend
-4.	on Upwork Django app of economic analysis
+3.	Django survey app with Frontend
+4.	Django economic analysis app
 5.	Pincolor – React app – pin code by colors, hexadecimal code as a pin
 
 🎓Completed courses: Higher School of Economics National Research University – basics of programming on Python, University of Michigan (2 courses) – Python, Stepik Academy – Django from scratch on practice, Internet of Things Academy - Linux Mastery Master the Linux Command Line in 11.5 Hours, Coursera Guided Project Build CRUD REST API in Django, Test-Driven Development with Django, Django REST Framework, and Docker
