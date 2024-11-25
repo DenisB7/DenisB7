@@ -6,15 +6,15 @@ In 2018 i started to explore world of programming and development and which path
 
 ✅**Main proficiency:** Python, Django, API, Automation, Django REST Framework (DRF), JSON/Message Pack, SQLite, GitHub, HTML5, Bootstrap, CSS3, manual testing
 
-✅**Secondary proficiency:** Web Scraping, JavaScript, jQuery, AJAX, Heroku, PostgreSQL, Vue, Swagger, WebSockets(Django Channels, Centrifugo), Google reCAPTCHA
+✅**Secondary proficiency:** JavaScript, jQuery, AJAX, Celery, Heroku, PostgreSQL, Vue, Swagger, WebSockets(Django Channels, Centrifugo), Web Scraping, Google reCAPTCHA, Mollie
 
-✅**Familiarity:** Nuxt, React, TypeScript, HashiCorp(Vault), Clamav, Chartjs, Dash, Linux(Ubuntu), Docker, Test-Driven Development (TDD), pytest, Nginx, AWS S3, Celery, CloudMailin, Stripe, PayPal, Oauth, SEO, Wagtail CMS, APScheduler, tinyMCE, DataTables
+✅**Third proficiency:** Nuxt, React, TypeScript, HashiCorp(Vault), Clamav, Chartjs, Dash, Linux(Ubuntu), Docker, Test-Driven Development (TDD), pytest, Nginx, AWS S3, CloudMailin, Stripe, PayPal, Oauth, SEO, Wagtail CMS, APScheduler, tinyMCE, DataTables
 
 💼Business size experience with 1800 employees and managing 10+ people.
 
 🚀Rating on Upwork https://www.upwork.com/freelancers/~01508077047f73d49b?viewMode=1&s=1110580748673863680 :
 - Job Success Score 100% 
-- Rating 5 stars
+- Feedback 5 stars
 - Top Rated (TOP 10% on Upwork)
 
 🚀13 projects, 11 of them (creating from scratch, bugs fixing, extending current features and creating new features, performance, manual testing, automation, responsive design, refactoring, etc.):
