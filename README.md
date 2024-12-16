@@ -1,18 +1,21 @@
 # FullStack Developer (mostly Backend and Frontend) | Python, Django, SQL, API | HTML, CSS, JavaScript | TOP 10% on Upwork
 I'm from Russia, but currently in Uzbekistan!
-🚀Top Rated on Upwork (feedbacks 5 stars), highly rated by clients, recognized by Harvard and MIT Software Engineer (12+ years), owners with 500M+ USD business cost experience and 600K+ YouTube subscribers, handling of tens of millions rows of data and tens of thousands of users, hundreds thousands daily visitors.
 
-💼My clients saying: “exceptional software developer”, “very technically proficient and thorough”, “attention to the quality”, “adapts to new languages and technologies with ease”, “reliable”, “standout skill is his excellent communication”, “a great work-ethic, good mindset”. (check LinkedIn and Upwork)
+🚀**Top Rated on Upwork (feedbacks 5 stars), highly rated by clients, recognized by Harvard and MIT Software Engineer (12+ years), owners with 500M+ USD business cost experience and 600K+ YouTube subscribers, handling of tens of millions rows of data and tens of thousands of users, hundreds thousands daily visitors.**
+
+💼**My clients saying**: “exceptional software developer”, “very technically proficient and thorough”, “attention to the quality”, “adapts to new languages and technologies with ease”, “reliable”, “standout skill is his excellent communication”, “a great work-ethic, good mindset”. (check LinkedIn and Upwork)
 
 🚀Rating on Upwork: Job Success Score 100%, Feedbacks 5 stars, Top Rated (TOP 10% on Upwork)
 
-✅Main proficiency: Python, Django, API, Automation, Django REST Framework (DRF), JSON/Message Pack, SQLite, GitHub, HTML, Bootstrap, CSS, manual testing
-✅Secondary proficiency: JavaScript, jQuery, AJAX, Celery, Heroku, PostgreSQL, Vue, Swagger, WebSockets(Django Channels, Centrifugo), Web Scraping, Google Cloud Platform (reCAPTCHA, sheets), Mollie, Django Axes, Sentry, Stripe, SEO
-✅Third proficiency: Nuxt, React, TypeScript, HashiCorp(Vault), Clamav, Chartjs, Dash, Linux(Ubuntu), Docker, Test-Driven Development (TDD), pytest, Nginx, AWS S3, CloudMailin, PayPal, Oauth, Wagtail CMS, APScheduler, tinyMCE, DataTables, tweepy(Twitter API), Django CSP
+✅**Main proficiency**: Python, Django, API, Automation, Django REST Framework (DRF), JSON/Message Pack, SQLite, GitHub, HTML, Bootstrap, CSS, manual testing
 
-✅Experience: 4.5+ years in Full Stack Development, WordPress 4+ years
+✅**Secondary proficiency**: JavaScript, jQuery, AJAX, Celery, Heroku, PostgreSQL, Vue, Swagger, WebSockets(Django Channels, Centrifugo), Web Scraping, Google Cloud Platform (reCAPTCHA, sheets), Mollie, Django Axes, Sentry, Stripe, SEO
 
-💼Business size experience with 1800 employees and managing 10+ people.
+✅**Third proficiency**: Nuxt, React, TypeScript, HashiCorp(Vault), Clamav, Chartjs, Dash, Linux(Ubuntu), Docker, Test-Driven Development (TDD), pytest, Nginx, AWS S3, CloudMailin, PayPal, Oauth, Wagtail CMS, APScheduler, tinyMCE, DataTables, tweepy(Twitter API), Django CSP
+
+✅**Experience**: 4.5+ years in Full Stack Development, WordPress 4+ years
+
+💼**Business size experience with 1800 employees and managing 10+ people.**
 
 🚀15+ projects
 
