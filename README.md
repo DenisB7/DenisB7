@@ -15,9 +15,9 @@ I'm from Russia, but currently in Uzbekistan!
 
 ✅**Experience**: 4.5+ years in Full Stack Development, WordPress 4+ years
 
-💼**Business size experience with 1800 employees and managing 10+ people.**
-
 🚀15+ projects
+
+💼**Business size experience with 1800 employees and managing 10+ people.**
 
 🎓Completed 7 courses: University of Michigan (2 courses) – Python, Higher School of Economics National Research University – basics of programming on Python, , Stepik Academy – Django from scratch on practice, Internet of Things Academy - Linux Mastery Master the Linux Command Line in 11.5 Hours, Coursera Guided Project Build CRUD REST API in Django, Test-Driven Development with Django, Django REST Framework, and Docker
 
