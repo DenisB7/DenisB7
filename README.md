@@ -13,7 +13,7 @@ I'm from Russia, but currently in Uzbekistan!
 
 ✅**Third proficiency**: Nuxt, React, TypeScript, HashiCorp(Vault), Clamav, Chartjs, Dash, Linux(Ubuntu), Docker, Test-Driven Development (TDD), pytest, Nginx, AWS S3, CloudMailin, PayPal, Oauth, Wagtail CMS, APScheduler, tinyMCE, DataTables, tweepy(Twitter API), Django CSP
 
-✅**Experience**: 4.5+ years in Full Stack Development, WordPress 4+ years
+✅**Experience**: 5+ years in Full Stack Development, WordPress 4+ years
 
 🚀15+ projects
 
