@@ -1,5 +1,5 @@
 # FullStack Developer (mostly Backend and Frontend) | Python, Django, SQL, API | HTML, CSS, JavaScript | TOP 10% on Upwork
-I'm from Russia, but currently in Uzbekistan!
+I'm from Russia, but currently in Spain!
 
 🚀**Top Rated on Upwork (feedbacks 5 stars), highly rated by clients, recognized by Harvard and MIT Software Engineer (12+ years), owners with 500M+ USD business cost experience and 600K+ YouTube subscribers, handling of tens of millions rows of data and tens of thousands of users, hundreds thousands daily visitors.**
 
