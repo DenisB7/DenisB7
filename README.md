@@ -11,29 +11,45 @@ I'm from Russia, but currently in Spain!
 
 ✅**Core proficiency**:
 Backend & APIs - Python, Django, Django REST Framework (DRF)
+
 Data & Databases – PostgreSQL, SQLite, data formats: JSON, MessagePack, Protocol Buffers (Protobuf)
+
 Data Analytics / Visualization - SQL reporting, ETL, Chart.js, Dash (Bokeh), DataTables, Google Cloud Platform (Sheets)
+
 Async / Realtime / Scheduler - Celery, WebSockets (Django Channels, Centrifugo), APScheduler 
-Frontend – JavaScript, HTML, CSS, Bootstrap
+
+Frontend – JavaScript, HTML, CSS, Bootstrap\
+
 Version Control - Git/GitHub
+
 QA - manual testing
 
 ✅**Working proficiency**:
 Backend & APIs - FastAPI, Golang
-Frontend - TypeScript, Vue, Nuxt, React, jQuery, AJAX
-DevOps / Deployment - Docker, Nginx, Linux (Ubuntu), Heroku, AWS S3
-Security - OAuth, Django Axes, Django CSP, HashiCorp (Vault), ClamAV, Google Cloud Platform (reCAPTCHA)
-Reliability / Debugging - Sentry
-Payments - Stripe, Mollie, PayPal
-Emailing – CloudMailin, Mailgun
-API / Docs - Swagger (OpenAPI)
-QA - Test-Driven Development (TDD), pytest
-CMS - Wagtail CMS, TinyMCE, WordPress
-Web Scraping – BeautifulSoup, Selenium, ElementTree
-Computer Vision / Biometrics - 3divi (face recognition)
-Other - SEO, tweepy (Twitter API)
-<img width="468" height="331" alt="image" src="https://github.com/user-attachments/assets/4da6970d-2410-42e9-a55b-320dad75433b" />
 
+Frontend - TypeScript, Vue, Nuxt, React, jQuery, AJAX
+
+DevOps / Deployment - Docker, Nginx, Linux (Ubuntu), Heroku, AWS S3
+
+Security - OAuth, Django Axes, Django CSP, HashiCorp (Vault), ClamAV, Google Cloud Platform (reCAPTCHA)
+
+Reliability / Debugging - Sentry
+
+Payments - Stripe, Mollie, PayPal
+
+Emailing – CloudMailin, Mailgun
+
+API / Docs - Swagger (OpenAPI)
+
+QA - Test-Driven Development (TDD), pytest
+
+CMS - Wagtail CMS, TinyMCE, WordPress
+
+Web Scraping – BeautifulSoup, Selenium, ElementTree
+
+Computer Vision / Biometrics - 3divi (face recognition)
+
+Other - SEO, tweepy (Twitter API)
 
 🚀15+ projects
 
