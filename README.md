@@ -9,7 +9,8 @@ I'm from Russia, but currently in Spain!
 
 ✅**Experience**: 6+ years in Full Stack Development, WordPress 4+ years
 
-✅**Core proficiency**:
+✅**Skills**
+**Core proficiency**:
 Backend & APIs - Python, Django, Django REST Framework (DRF)
 
 Data & Databases – PostgreSQL, SQLite, data formats: JSON, MessagePack, Protocol Buffers (Protobuf)
@@ -24,7 +25,7 @@ Version Control - Git/GitHub
 
 QA - manual testing
 
-✅**Working proficiency**:
+**Working proficiency**:
 Backend & APIs - FastAPI, Golang
 
 Frontend - TypeScript, Vue, Nuxt, React, jQuery, AJAX
