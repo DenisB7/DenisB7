@@ -12,6 +12,7 @@ I'm from Russia, but currently in Spain!
 ✅**Skills**
 
 **Core proficiency**:
+
 Backend & APIs - Python, Django, Django REST Framework (DRF)
 
 Data & Databases – PostgreSQL, SQLite, data formats: JSON, MessagePack, Protocol Buffers (Protobuf)
@@ -27,6 +28,7 @@ Version Control - Git/GitHub
 QA - manual testing
 
 **Working proficiency**:
+
 Backend & APIs - FastAPI, Golang
 
 Frontend - TypeScript, Vue, Nuxt, React, jQuery, AJAX
