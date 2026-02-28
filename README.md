@@ -10,6 +10,7 @@ I'm from Russia, but currently in Spain!
 ✅**Experience**: 6+ years in Full Stack Development, WordPress 4+ years
 
 ✅**Skills**
+
 **Core proficiency**:
 Backend & APIs - Python, Django, Django REST Framework (DRF)
 
