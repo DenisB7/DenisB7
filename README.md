@@ -1,4 +1,4 @@
-# FullStack Developer (mostly Backend and Frontend) | Python, Django, SQL, API | HTML, CSS, JavaScript | TOP 10% on Upwork
+# FullStack Developer (mostly Backend and Frontend, Data Analytics) | Python, Django, SQL, API | HTML, CSS, JavaScript | TOP 10% on Upwork
 I'm from Russia, but currently in Spain!
 
 🚀**Top Rated on Upwork (feedbacks 5 stars), highly rated by clients, recognized by Harvard and MIT Software Engineer (12+ years), owners with 500M+ USD business cost experience and 600K+ YouTube subscribers, handling of tens of millions rows of data and tens of thousands of users, hundreds thousands daily visitors.**
@@ -8,6 +8,8 @@ I'm from Russia, but currently in Spain!
 🚀Rating on Upwork: Job Success Score 100%, Feedbacks 5 stars, Top Rated (TOP 10% on Upwork)
 
 ✅**Experience**: 6+ years in Full Stack Development, WordPress 4+ years
+
+💼**Business size experience with 1800 employees and managing 10+ people.**
 
 ✅**Skills**
 
@@ -56,8 +58,6 @@ Computer Vision / Biometrics - 3divi (face recognition)
 Other - SEO, tweepy (Twitter API)
 
 🚀15+ projects
-
-💼**Business size experience with 1800 employees and managing 10+ people.**
 
 🎓Completed 7 courses: University of Michigan (2 courses) – Python, Higher School of Economics National Research University – basics of programming on Python, , Stepik Academy – Django from scratch on practice, Internet of Things Academy - Linux Mastery Master the Linux Command Line in 11.5 Hours, Coursera Guided Project Build CRUD REST API in Django, Test-Driven Development with Django, Django REST Framework, and Docker
 
