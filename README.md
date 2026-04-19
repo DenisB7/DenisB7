@@ -1,5 +1,5 @@
 # FullStack Developer (mostly Backend and Frontend, Data Analytics) | Python, Django, SQL, API | HTML, CSS, JavaScript | TOP 10% on Upwork
-I'm from Russia, but currently in Spain!
+Spain / EU resident | Originally from Russia
 
 🚀**Top Rated on Upwork (feedbacks 5 stars), highly rated by clients, recognized by Harvard and MIT Software Engineer (12+ years), owners with 500M+ USD business cost experience and 600K+ YouTube subscribers, handling of tens of millions rows of data and tens of thousands of users, hundreds thousands daily visitors.**
 
@@ -53,7 +53,7 @@ CMS - Wagtail CMS, TinyMCE, WordPress
 
 Web Scraping – BeautifulSoup, Selenium, ElementTree
 
-Computer Vision / Biometrics - 3divi (face recognition)
+Computer Vision / Biometrics - face recognition (3divi, umbra)
 
 Other - SEO, tweepy (Twitter API)
 
@@ -65,6 +65,6 @@ Other - SEO, tweepy (Twitter API)
 
 🎓Graduated from Urals State Technical University - Ural Polytechnical Institute in 2009 (Ural Federal University, nowadays), Metallurgical Faculty, Master's Degree (sales, commerce)
 
-💼Duties: creating from scratch, support and maintaining, bugs fixing, creating and improving features, performance optimizations, manual testing, automation, responsive design, refactoring, middlewares, microservices, scheduled scripts, payment gateways, data analytics, etc.
+💼Duties: automation, creating from scratch, support and maintaining, bugs fixing, creating and improving features, performance optimizations, manual testing, responsive design, refactoring, middlewares, microservices, scheduled scripts, payment gateways, data analytics, migration of data, security, encryption, etc
 
 💼Industries experience where profession was not related with programming, (in addition to sales - management, administration, marketing, procurements, logistics, market analysis, economics, finance, teaching, education, promotion): internet and telecommunication, metallurgical and electrical (manufacturing of high voltage equipment), culture (dance), agricultural (farmer), polymer (manufacturing of components for public utilities)
