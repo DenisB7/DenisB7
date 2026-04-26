@@ -7,10 +7,6 @@ Spain / EU resident | Originally from Russia
 
 🚀Rating on Upwork: Job Success Score 100%, Feedbacks 5 stars, Top Rated (TOP 10% on Upwork)
 
-✅**Experience**: 6+ years in Full Stack Development, WordPress 4+ years
-
-💼**Business size experience with 1800 employees and managing 10+ people.**
-
 ✅**Skills**
 
 **Core proficiency**:
@@ -56,6 +52,10 @@ Web Scraping – BeautifulSoup, Selenium, ElementTree
 Computer Vision / Biometrics - face recognition (3divi, umbra)
 
 Other - SEO, tweepy (Twitter API)
+
+✅**Experience**: 6+ years in Full Stack Development, WordPress 4+ years
+
+💼**Business size experience with 1800 employees and managing 10+ people.**
 
 🚀15+ projects
 
