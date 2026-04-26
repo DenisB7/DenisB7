@@ -65,6 +65,6 @@ Other - SEO, tweepy (Twitter API)
 
 🎓Graduated from Urals State Technical University - Ural Polytechnical Institute in 2009 (Ural Federal University, nowadays), Metallurgical Faculty, Master's Degree (sales, commerce)
 
-💼Duties: automation, creating from scratch, support and maintaining, bugs fixing, creating and improving features, performance optimizations, manual testing, responsive design, refactoring, middlewares, microservices, scheduled scripts, payment gateways, data analytics, migration of data, security, encryption, etc
+💼Duties: automation, creating from scratch, support and maintaining, bugs fixing, creating and improving features, performance optimizations, manual testing, responsive design, refactoring, middlewares, microservices, scheduled scripts, payment gateways, data analytics, migration of data, security, encryption, biometrics, etc.
 
 💼Industries experience where profession was not related with programming, (in addition to sales - management, administration, marketing, procurements, logistics, market analysis, economics, finance, teaching, education, promotion): internet and telecommunication, metallurgical and electrical (manufacturing of high voltage equipment), culture (dance), agricultural (farmer), polymer (manufacturing of components for public utilities)
