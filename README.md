@@ -1,4 +1,4 @@
-# FullStack Developer (mostly Backend and Frontend, Data Analytics) | Python, Django, SQL, API | HTML, CSS, JavaScript | TOP 10% on Upwork
+# Full-Stack Developer (Backend, Frontend, Data Analytics) | Python, Django, SQL, API | HTML, CSS, JavaScript | TOP 10% on Upwork
 Spain / EU resident | Originally from Russia
 
 🚀**Top Rated on Upwork (feedbacks 5 stars), highly rated by clients, recognized by Harvard and MIT Software Engineer (12+ years), owners with 500M+ USD business cost experience and 600K+ YouTube subscribers, handling of tens of millions rows of data and tens of thousands of users, hundreds thousands daily visitors.**
