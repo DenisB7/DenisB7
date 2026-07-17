@@ -19,7 +19,7 @@ Data Analytics / Visualization - SQL reporting, ETL, Chart.js, Dash (Bokeh), Dat
 
 Async / Realtime / Scheduler - Celery, WebSockets (Django Channels, Centrifugo), APScheduler 
 
-Frontend – JavaScript, HTML, CSS, Bootstrap\
+Frontend – JavaScript, HTML, CSS, Bootstrap
 
 Version Control - Git/GitHub
 
@@ -35,7 +35,7 @@ DevOps / Deployment - Docker, Nginx, Linux (Ubuntu), Heroku, AWS S3
 
 Security - OAuth, Django Axes, Django CSP, HashiCorp (Vault), ClamAV, Google Cloud Platform (reCAPTCHA)
 
-Reliability / Debugging - Sentry
+Reliability / Debugging - Sentry, Datadog, ElasticSearch, OpenTelemetry
 
 Payments - Stripe, Mollie, PayPal
 
