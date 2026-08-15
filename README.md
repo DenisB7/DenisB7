@@ -35,7 +35,7 @@ DevOps / Deployment - Docker, Nginx, Linux (Ubuntu), Heroku, AWS S3
 
 Security - OAuth, Django Axes, Django CSP, HashiCorp (Vault), ClamAV, Google Cloud Platform (reCAPTCHA)
 
-Reliability / Debugging - Sentry, Datadog, ElasticSearch, OpenTelemetry
+Reliability / Debugging - Sentry, Datadog, ElasticSearch, OpenTelemetry (Grafana)
 
 Payments - Stripe, Mollie, PayPal
 
