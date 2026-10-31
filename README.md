@@ -9,51 +9,23 @@
 
 ✅**Skills**
 
-**Core proficiency**:
-
-Backend & APIs - Python, Django, Django REST Framework (DRF)
-
-Data & Databases – PostgreSQL, SQLite, data formats: JSON, MessagePack, Protocol Buffers (Protobuf)
-
-Data Analytics / Visualization - SQL reporting, ETL, Chart.js, Dash (Bokeh), DataTables, Google Cloud Platform (Sheets)
-
-Async / Realtime / Scheduler - Celery, WebSockets (Django Channels, Centrifugo), APScheduler 
-
-Frontend – JavaScript, HTML, CSS, Bootstrap
-
-Version Control - Git/GitHub
-
-QA - manual testing
-
-**Professional proficiency**:
-
-Data - hl7
-
-Backend & APIs - FastAPI, Flask, Golang
-
-Frontend - TypeScript, Vue, Nuxt, React, jQuery, AJAX
-
-DevOps / Deployment - Docker, Nginx, Linux (Ubuntu), Heroku, AWS S3
-
-Security - OAuth, Django Axes, Django CSP, HashiCorp (Vault), ClamAV, Google Cloud Platform (reCAPTCHA)
-
-Reliability / Debugging - Sentry, Datadog, ElasticSearch, OpenTelemetry (Grafana)
-
-Payments - Stripe, Mollie, PayPal
-
-Emailing – CloudMailin, Mailgun
-
-API / Docs - Swagger (OpenAPI)
-
-QA - Test-Driven Development (TDD), pytest
-
-CMS - Wagtail CMS, TinyMCE, WordPress
-
-Web Scraping – BeautifulSoup, Selenium, ElementTree
-
-Computer Vision / Biometrics - face recognition (3divi, umbra)
-
-Other - SEO, tweepy (Twitter API)
+Backend & APIs: Python, Django, Django REST Framework (DRF), FastAPI, Flask, Golang
+Data & Databases: PostgreSQL, SQLite, JSON, MessagePack, Protocol Buffers (Protobuf), HL7
+Frontend: JavaScript, TypeScript, HTML, CSS, Bootstrap, Vue, Nuxt, React, jQuery, AJAX
+Data Analytics & Visualization: SQL reporting, ETL, Chart.js, Bokeh, DataTables, Google Cloud Platform (Sheets)
+Async, Realtime & Scheduling: Celery, WebSockets (Django Channels, Centrifugo), APScheduler
+Version Control: Git, GitHub
+QA: Manual testing, Test-Driven Development (TDD), pytest
+DevOps & Deployment: Docker, Nginx, Linux (Ubuntu), Heroku, AWS S3
+Security: OAuth, Django Axes, Django CSP, HashiCorp Vault (KMS), ClamAV (antivirus), Google Cloud Platform (reCAPTCHA)
+Reliability & Debugging: Sentry, Datadog, Elasticsearch, OpenTelemetry, Grafana
+Payments: Stripe, Mollie, PayPal
+Email: CloudMailin, Mailgun
+API Documentation: OpenAPI, Swagger, Redoc
+CMS: Wagtail CMS, TinyMCE, WordPress
+Web Scraping: BeautifulSoup, Selenium, ElementTree
+Computer Vision, Biometrics & AI: Face recognition (3DiVi, Umbra)
+Other: SEO, Tweepy (Twitter API)
 
 ✅**Experience**: 6.5+ years in Full Stack Development, WordPress 4+ years
 
