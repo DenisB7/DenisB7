@@ -9,7 +9,7 @@
 
 ✅**Skills**
 
-Backend & APIs: Python, Django, Django REST Framework (DRF), FastAPI, Flask, Golang
+Backend & APIs: Python, Django, Django REST Framework (DRF), FastAPI, Flask, Golang/n
 Data & Databases: PostgreSQL, SQLite, JSON, MessagePack, Protocol Buffers (Protobuf), HL7
 Frontend: JavaScript, TypeScript, HTML, CSS, Bootstrap, Vue, Nuxt, React, jQuery, AJAX
 Data Analytics & Visualization: SQL reporting, ETL, Chart.js, Bokeh, DataTables, Google Cloud Platform (Sheets)
