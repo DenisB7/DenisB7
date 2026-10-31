@@ -29,7 +29,7 @@ QA - manual testing
 
 Data - hl7
 
-Backend & APIs - FastAPI, Golang
+Backend & APIs - FastAPI, Flask, Golang
 
 Frontend - TypeScript, Vue, Nuxt, React, jQuery, AJAX
 
