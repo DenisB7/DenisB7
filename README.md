@@ -1,15 +1,15 @@
-# Full Stack Developer (Backend, Frontend, Data Analytics) | Python, Django and more, SQL databases, API | HTML, CSS, JavaScript and Frontend frameworks | end-to-end | diverse industries | Greatly rated on Upwork
+# Full Stack Developer (Backend focus, Frontend, Data Analytics) | Python, Django, FastAPI, Flask, SQL databases, API | HTML, CSS, JavaScript, Vue, React |Celery, Sockets |end-to-end |diverse industries | TOP 10% on Upwork
 🌍 Spain / EU resident | Originally from Russia
 
-🚀**Greatly rated on Upwork (feedbacks 5 stars), highly rated by clients, recognized by Harvard and MIT Software Engineer (12+ years), owners with 500M+ USD business cost experience and 600K+ YouTube subscribers, handling of tens of millions rows of data and tens of thousands of users, hundreds thousands daily visitors.**
+🚀**Top Rated on Upwork (feedbacks 5 stars), highly rated by clients, recognized by Harvard and MIT Software Engineer (12+ years), owners with 500M+ USD business cost experience and 600K+ YouTube subscribers, handling of 152M+ rows of data and 100K+ users, 202K+ daily visitors.**
 
 💼**My clients saying**: “exceptional software developer”, “very technically proficient and thorough”, “attention to the quality”, “adapts to new languages and technologies with ease”, “reliable”, “standout skill is his excellent communication”, “a great work-ethic, good mindset”. (check LinkedIn and Upwork)
 
-🚀Rating on Upwork: Job Success Score 100%, Feedbacks 5 stars
+🚀Rating on Upwork: Job Success Score 100%, Feedbacks 5 stars, Top Rated (TOP 10% on Upwork)
 
 ✅**Skills**
 
-Backend & APIs: Python, Django, Django REST Framework (DRF), FastAPI, Flask, Golang
+Backend & APIs: Python, Django, Django REST Framework (DRF), FastAPI, Flask, Golang (Go)
 
 Data & Databases: PostgreSQL, SQLite, JSON, MessagePack, Protocol Buffers (Protobuf), HL7
 
@@ -55,6 +55,6 @@ Other: SEO, Tweepy (Twitter API)
 
 🎓Graduated from Urals State Technical University - Ural Polytechnical Institute in 2009 (Ural Federal University, nowadays), Metallurgical Faculty, Master's Degree (sales, commerce)
 
-💼Duties: automation, creating from scratch, support and maintaining, bugs fixing, creating and improving features, performance optimizations, manual testing, responsive design, refactoring, middlewares, microservices, scheduled scripts, payment gateways, data analytics, migration of data, security, encryption, biometrics, etc.
+💼Duties: backend, fullstack, frontend, automation, creating from scratch, support and maintaining, bugs fixing, creating and improving features, performance optimizations, manual testing, responsive design, refactoring, middlewares, microservices, scheduled scripts, payment gateways, data analytics, migration of data, security, encryption, biometrics, etc.
 
 💼Industry experience (not only as software engineer, i used to be manager, sales, owner, farmer, teacher, etc.): security, healthcare, education, culture, computer games, commerce, finance, internet and telecommunication, metallurgy and electrical, agriculture, polymers
